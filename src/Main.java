@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Cal govna!Q");
         System.out.println("Novoe govno");
         System.out.println("Novoe govno1");
+        System.out.println(24);
     }
 }
