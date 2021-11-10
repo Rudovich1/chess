@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("Cal govna!Q");
         System.out.println("Novoe govno");
+        System.out.println("Novoe govno1");
     }
 }
