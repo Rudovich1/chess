@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+    "fmt"
+    "math"
+)
 
 func main() {
-  fmt.Print("fuck")
+    fmt.Println("let us fuck")
+    var a int
+    fmt.Scan(&a)
+    fmt.Println(math.isPrime(a))
 }
