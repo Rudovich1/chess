@@ -27,7 +27,7 @@ public class Main {
 
         Classic_Chess_Game game = new Classic_Chess_Game(input_movements);
         game.processGame();
-
+        //lol
     }
 
 }
